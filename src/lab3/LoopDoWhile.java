@@ -19,6 +19,6 @@ public class LoopDoWhile {
         }while (x !=0);
 
         System.out.println("Good bye.");
-
+        System.out.println("Good bye.");
     }
 }
